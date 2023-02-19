@@ -1,0 +1,12 @@
+#mainDiv {
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+#sexy_in_suit, #sexiest{
+  width: 80%;
+  object-fit: cover;
+  object-position: bottom;
+}
